@@ -1,6 +1,5 @@
 # HỆ THỐNG QUẢN LÝ HỒ SƠ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
 
-> **Đề tài Thực tập Chuyên ngành / Đồ án Tốt nghiệp Công nghệ Thông tin**  
 > **Repository:** [https://github.com/VanThan19/QuanLyCongChucVien](https://github.com/VanThan19/QuanLyCongChucVien)  
 > **Tác giả:** Nguyễn Văn Thân (VanThan19)  
 > **Đơn vị đào tạo:** Trường Đại học Vinh (Vinh University)  
@@ -302,5 +301,4 @@ Mỗi Task quy định rõ ràng:
 - **Email:** 235748020110172@vinhuni.edu.vn / vanthan@vinhuni.edu.vn
 - **GitHub:** [https://github.com/VanThan19](https://github.com/VanThan19)
 - **Mã nguồn dự án:** [https://github.com/VanThan19/QuanLyCongChucVien](https://github.com/VanThan19/QuanLyCongChucVien)
-- Giấy phép: MIT License.
 
